@@ -5,7 +5,5 @@
 	"minAppVersion": "1.0.0",
 	"description": "Adds backtick shortcut for code blocks.",
 	"author": "aiday-mar",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
