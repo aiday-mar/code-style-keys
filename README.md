@@ -5,13 +5,7 @@ Code Style Keys is an Obsidian plugin that makes wrapping selected text in backt
 When you press the backtick key with text selected:
 
 - Single-line selection becomes inline code: `selected text`.
-- Multi-line selection becomes a fenced code block:
-
-```text
-```
-selected text
-```
-```
+- Multi-line selection becomes a fenced code block
 
 The plugin also prevents duplicate trailing backticks that can appear from the original keypress.
 
